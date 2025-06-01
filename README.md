@@ -1,2 +1,3 @@
 # http-debug-proxy
-Simple http proxy that replay and print request/response
+
+A simple HTTP proxy that prints the traffic (requests/responses) passing through it.
